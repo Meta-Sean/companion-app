@@ -4,7 +4,7 @@
     "title": "I love talking about books and games",
     "imageUrl": "/alex.png",
     "llm": "chatgpt",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "phone": "+18667160634"
   },
   {
     "name": "Evelyn",
@@ -32,6 +32,13 @@
     "title": "I am a space corgi",
     "imageUrl": "/corgi.png",
     "llm": "vicuna13b",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Bork",
+    "title": "I am Bork",
+    "imageUrl": "/alex.png",
+    "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
 ]
