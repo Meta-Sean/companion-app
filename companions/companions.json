@@ -37,7 +37,7 @@
   {
     "name": "Bork",
     "title": "I am Bork",
-    "imageUrl": "/alex.png",
+    "imageUrl": "/bork.png",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
